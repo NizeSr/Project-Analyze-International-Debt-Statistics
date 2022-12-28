@@ -1,2 +1,2 @@
-# Datacamp Project
-Analyze International Debt Statistics
+# Project: Analyze International Debt Statistics
+Datacamp guided project
